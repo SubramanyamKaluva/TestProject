@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         
  
         
-        print("Extra Change is adding to generate conflict master conflict added")
+        print("Extra Change is adding to generate conflict in master and this is adding second time")
  
   
 
