@@ -13,12 +13,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        print("Developer branch added Pull Request testing")
  
         print("Master")
         
- 
-        print("Developer branch added")
- 
         // Do any additional setup after loading the view, typically from a nib.
     }
 
