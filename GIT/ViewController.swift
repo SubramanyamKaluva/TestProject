@@ -14,6 +14,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("Developer branch added Pull Request testing")
+ 
+        print("Master")
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
