@@ -13,6 +13,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        
+        print("get Confilcts to resolve")
         print("Developer branch added Pull Request testing")
  
         print("Master branch added Pull Request tesing")
