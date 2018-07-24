@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         
         print("get Confilcts to resolve some overriden steps")
         print("Developer branch added Pull Request testing some overriden steps")
+
  
         print("Both branches has to modify and updated in Git some overriden steps")
         print("Above statement to to generate conflicts")
@@ -24,7 +25,10 @@ class ViewController: UIViewController {
  
         print("Master branch added Pull Request tesing")
  
+ 
         
+        print("Developer branch added Pull Request testing some overriden steps")
+       
         // Do any additional setup after loading the view, typically from a nib.
     }
 
