@@ -16,7 +16,7 @@ class ViewController: UIViewController {
   
 
 
-        print("Extra Change is adding to generate conflict")
+        print("Extra Change is adding to generate conflict duplicate")
         print("get Confilcts to resolve")
         print("Developer branch added Pull Request testing")
  
