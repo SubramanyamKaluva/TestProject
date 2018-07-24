@@ -13,19 +13,28 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+ 
         
         print("Extra Change is adding to generate conflict master conflict added")
+ 
+  
+
+ 
         print("get Confilcts to resolve")
         print("Developer branch added Pull Request testing")
  
-        print("Both branches has to modify and updated in Git")
+ 
+        print("Both branches has to modify and updated in Git some overriden steps")
         print("Above statement to to generate conflicts")
         print("Master")
  
  
         print("Master branch added Pull Request tesing")
  
+ 
         
+        print("Developer branch added Pull Request testing some overriden steps")
+       
         // Do any additional setup after loading the view, typically from a nib.
     }
 
