@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         
         print("Developer branch added Pull Request testing")
  
-        print("Master")
+        print("Master branch added Pull Request tesing")
         
         // Do any additional setup after loading the view, typically from a nib.
     }
