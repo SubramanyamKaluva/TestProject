@@ -14,7 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("Developer branch added Pull Request testing")
- 
+        print("Both branches has to modify and updated in Git")
+        print("Above statement to to generate conflicts")
         print("Master")
         
         // Do any additional setup after loading the view, typically from a nib.
