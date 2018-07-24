@@ -13,10 +13,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-  
-
-
-        print("Extra Change is adding to generate conflict duplicate")
+ 
+        
+        print("Extra Change is adding to generate conflict master conflict added complicated resolves")
         print("get Confilcts to resolve")
         print("Developer branch added Pull Request testing")
  
