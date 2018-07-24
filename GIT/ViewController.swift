@@ -13,10 +13,17 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        
+        print("get Confilcts to resolve")
         print("Developer branch added Pull Request testing")
+ 
         print("Both branches has to modify and updated in Git")
         print("Above statement to to generate conflicts")
         print("Master")
+ 
+ 
+        print("Master branch added Pull Request tesing")
+ 
         
         // Do any additional setup after loading the view, typically from a nib.
     }
