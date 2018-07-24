@@ -14,10 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         
-        print("get Confilcts to resolve")
-        print("Developer branch added Pull Request testing")
+        print("get Confilcts to resolve some overriden steps")
+        print("Developer branch added Pull Request testing some overriden steps")
  
-        print("Both branches has to modify and updated in Git")
+        print("Both branches has to modify and updated in Git some overriden steps")
         print("Above statement to to generate conflicts")
         print("Master")
  
