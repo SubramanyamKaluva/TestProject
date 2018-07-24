@@ -13,10 +13,13 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
-        print("get Confilcts to resolve some overriden steps")
-        print("Developer branch added Pull Request testing some overriden steps")
+  
 
+
+        print("Extra Change is adding to generate conflict")
+        print("get Confilcts to resolve")
+        print("Developer branch added Pull Request testing")
+ 
  
         print("Both branches has to modify and updated in Git some overriden steps")
         print("Above statement to to generate conflicts")
